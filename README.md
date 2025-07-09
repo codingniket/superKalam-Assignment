@@ -1,50 +1,26 @@
-# Welcome to your Expo app 👋
+# SuperKalam Mobile Assignment
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## 💡 Description
 
-## Get started
+I want to become better at Chess(/Poker/Guitar). But do I really need to learn ALL techniques & become pro in it? Obviously, no.
 
-1. Install dependencies
+So, I don't want to go on YT & spend endless time searching right videos. I might get information overloaded & leave the hobby entirely.A good playlist of just 5-8 techniques as per the level I want to achieve should be enough. And as I am mastering a technique, I can keep checking that technique off my list. Or strike out a particular one from my list if I realise I don't like it or find difficult.
 
-   ```bash
-   npm install
-   ```
+## 💻 What it does
 
-2. Start the app
+- Helps you to find content you are looking for
 
-   ```bash
-   npx expo start
-   ```
+## ⚙️ How we built it
 
-In the output, you'll find options to open the app in a
+- Expo
+- Gemini
+- Rapid Api
+- React Native
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🧠 Challenges we ran into
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+1. integration of ai
 
-## Get a fresh project
+## 🏅 Accomplishments that we're proud of
 
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1.Compeleted my task

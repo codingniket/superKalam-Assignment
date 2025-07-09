@@ -37,6 +37,10 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "YOUTUBE_API_KEY": "",
+      "GEMINI_API_KEY": ""
     }
   }
 }
